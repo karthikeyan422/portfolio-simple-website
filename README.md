@@ -8,7 +8,7 @@ if you guy's see something' tht's my first portfolio website! - where passi@n me
 
 ## wh@ to s33
 
-you w@nna access my portfolio page [ link ]
+you w@nna access my portfolio page [ link https://karthikeyan422.github.io/portfolio-simple-website
 
 
 Thank you for visiting my portfolio wwebbsitee 
